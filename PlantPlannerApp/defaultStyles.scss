@@ -1,0 +1,60 @@
+.backgroundColor{
+  color: #82A269
+}
+
+.primaryColor{
+    color: #0F4203
+}
+
+.secondaryColor{
+    color: #F1ECCE
+}
+
+h1{
+  font-family: Belleza-Regular;
+  font-size: 50;
+  color: #0F4203
+}
+
+h2{
+  font-family: Belleza-Regular;
+  font-size: 30;
+  color: #0F4203
+}
+
+h3{
+  font-family: PublicSans-Light;
+  font-size: 24;
+  color: #0F4203
+}
+
+p{
+  font-family: PublicSans-Light;
+  font-size: 16;
+  color: #0F4203
+}
+
+p.small{
+  font-family: PublicSans-Light;
+  font-size: 12;
+  color: #0F4203
+}
+
+p.light{
+  font-family: PublicSans-Light;
+  font-size: 16;
+  color: #0F4203
+  opacity($color: #0F4203, .5);
+}
+
+.button{
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #135804 ;
+  font-family: PublicSans-Light;
+  font-size: 24;
+  color: #F1ECCE
+}
+
+
+
